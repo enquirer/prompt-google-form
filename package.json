@@ -23,5 +23,24 @@
     "form",
     "google",
     "prompt"
-  ]
+  ],
+  "dependencies": {
+    "enquirer": "^2.3.2"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^2.0.0"
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
 }

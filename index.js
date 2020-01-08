@@ -1,4 +1,7 @@
 'use strict';
 
-module.exports = function() {
-};
+const { Form } = require('enquirer');
+
+class GoogleForm extends Form {}
+
+module.exports = GoogleForm;
