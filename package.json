@@ -1,0 +1,27 @@
+{
+  "name": "prompt-google-form",
+  "description": "Enquirer prompt for filling in Google Forms.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/enquirer/prompt-google-form",
+  "author": "Aditya Vyas (https://github.com/adityavyas611)",
+  "repository": "enquirer/prompt-google-form",
+  "bugs": {
+    "url": "https://github.com/enquirer/prompt-google-form/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "form",
+    "google",
+    "prompt"
+  ]
+}
