@@ -73,8 +73,8 @@ $ npm install -g verbose/verb#dev verb-generate-readme && verb
 **Aditya Vyas**
 
 * [GitHub Profile](https://github.com/adityavyas611)
-* [Twitter Profile](https://twitter.com/adityavyas611)
-* [LinkedIn Profile](https://linkedin.com/in/jonschlinkert)
+* [Twitter Profile](https://twitter.com/cybertron611)
+* [LinkedIn Profile](https://linkedin.com/in/aditya-vyas-25b370123/)
 
 ### License
 
