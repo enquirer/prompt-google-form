@@ -1,9 +1,12 @@
-const GoogleFormPrompt = require('prompt-google-form');
+'use strict';
+
+const GoogleFormPrompt = require('..');
+const { FORM_ID } = require('./constants');
 
 const prompt = new GoogleFormPrompt({
   name: 'Google Form',
   message: 'Please provide the information:',
-  form_id: process.argv[2],
+  formId: process.argv[2] || FORM_ID,
 });
 
 prompt.run()
