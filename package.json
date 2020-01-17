@@ -25,9 +25,9 @@
     "prompt"
   ],
   "dependencies": {
+    "axios": "^0.19.1",
     "cheerio": "^1.0.0-rc.3",
-    "enquirer": "^2.3.2",
-    "request": "^2.88.0"
+    "enquirer": "^2.3.2"
   },
   "devDependencies": {
     "gulp-format-md": "^2.0.0"
