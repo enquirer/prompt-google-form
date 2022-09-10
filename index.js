@@ -12,7 +12,7 @@ const generateQuestion = async formId => {
     choices.message = `${question}:`;
     enqQuestions.push(choices);
   });
-
+  
   return enqQuestions;
 };
 
